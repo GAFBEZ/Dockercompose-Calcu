@@ -2,7 +2,7 @@
 version: '3'
 services: 
   app: 
-    build: ./dockerdeploymentforFLASK
+    build: ./dockerdeplyFLASK
   nginx:
     build: . 
     ports: 
